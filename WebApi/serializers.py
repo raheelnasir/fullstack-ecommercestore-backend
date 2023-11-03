@@ -13,7 +13,12 @@ class LikesSerializer(serializers.ModelSerializer):
         model = Likes
         fields = '__all__'
 
+class ProductImageSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = Products
+        fields = ('image',)  # Only include the 'image' field
 
+    image = serializers.ImageField()
 
 class ReviewSerializer(serializers.ModelSerializer):
     user_name = serializers.SerializerMethodField()

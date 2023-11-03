@@ -115,6 +115,12 @@ ROOT_URLCONF = 'backend.urls'  # Adjust to your app's module name
 
 
 
+# settings.py
+
+# settings.py
+
+MEDIA_URL = '/media/'
+MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 
 
 # Default primary key field type

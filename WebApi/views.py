@@ -5,6 +5,8 @@ from rest_framework.generics import CreateAPIView
 from rest_framework.permissions import IsAuthenticated, IsAdminUser
 from rest_framework.authentication import TokenAuthentication
 from .models import *
+from rest_framework.parsers import MultiPartParser, FormParser
+
 from .serializers import *
 from django.utils import timezone
 
@@ -57,6 +59,24 @@ class OrderCreateView(APIView):
         print(5)
         
         return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
+
+class ProductList(APIView):
+    parser_classes = (MultiPartParser, FormParser)
+
+    def post(self, request, format=None):
+        serializer = ProductsSerializer(data=request.data)
+
+        if serializer.is_valid():
+            serializer.save()
+            return Response(serializer.data, status=status.HTTP_201_CREATED)
+        return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
+
+    def delete(self, request, pk, format=None):
+        product = self.get_object(pk)
+        product.delete()
+        return Response(status=status.HTTP_204_NO_CONTENT)    
+
+
 
 class LikeManager(APIView):
     authentication_classes = [TokenAuthentication]

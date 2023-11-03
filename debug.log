@@ -1761,3 +1761,355 @@ Bad Request: /api/orders/post/
 Bad Request: /api/orders/post/
 Bad Request: /api/orders/post/
 Bad Request: /api/orders/post/
+Watching for file changes with StatReloader
+Bad Request: /api/orders/post/
+Watching for file changes with StatReloader
+Not Found: /favicon.ico
+Not Found: /
+C:\Users\Rearms\Desktop\Web\Ecommerce\django\WebApi\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Rearms\Desktop\Web\Ecommerce\django\WebApi\models.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /https:/cdn.leonardo.ai/users/9c5c81ee-0af6-45d2-a406-940450d62697/generations/fa323540-75a5-4e72-b957-2ec6a1e5bdf1/DreamShaper_v7_watch_modern_wallpaper_product_full_screened_wr_0.jpg
+C:\Users\Rearms\Desktop\Web\Ecommerce\django\WebApi\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Importing BlpImagePlugin
+Importing BmpImagePlugin
+Importing BufrStubImagePlugin
+Importing CurImagePlugin
+Importing DcxImagePlugin
+Importing DdsImagePlugin
+Importing EpsImagePlugin
+Importing FitsImagePlugin
+Importing FliImagePlugin
+Importing FpxImagePlugin
+Image: failed to import FpxImagePlugin: No module named 'olefile'
+Importing FtexImagePlugin
+Importing GbrImagePlugin
+Importing GifImagePlugin
+Importing GribStubImagePlugin
+Importing Hdf5StubImagePlugin
+Importing IcnsImagePlugin
+Importing IcoImagePlugin
+Importing ImImagePlugin
+Importing ImtImagePlugin
+Importing IptcImagePlugin
+Importing JpegImagePlugin
+Importing Jpeg2KImagePlugin
+Importing McIdasImagePlugin
+Importing MicImagePlugin
+Image: failed to import MicImagePlugin: No module named 'olefile'
+Importing MpegImagePlugin
+Importing MpoImagePlugin
+Importing MspImagePlugin
+Importing PalmImagePlugin
+Importing PcdImagePlugin
+Importing PcxImagePlugin
+Importing PdfImagePlugin
+Importing PixarImagePlugin
+Importing PngImagePlugin
+Importing PpmImagePlugin
+Importing PsdImagePlugin
+Importing QoiImagePlugin
+Importing SgiImagePlugin
+Importing SpiderImagePlugin
+Importing SunImagePlugin
+Importing TgaImagePlugin
+Importing TiffImagePlugin
+Importing WebPImagePlugin
+Importing WmfImagePlugin
+Importing XbmImagePlugin
+Importing XpmImagePlugin
+Importing XVThumbImagePlugin
+Not Found: /product_images/DreamShaper_v7_illustration_of_cricket_sports_kit_bat_and_ball_0_4.jpg
+C:\Users\Rearms\Desktop\Web\Ecommerce\django\WebApi\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Rearms\Desktop\Web\Ecommerce\django\WebApi\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /api/api/postproducts/
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 32768
+Importing BlpImagePlugin
+Importing BmpImagePlugin
+Importing BufrStubImagePlugin
+Importing CurImagePlugin
+Importing DcxImagePlugin
+Importing DdsImagePlugin
+Importing EpsImagePlugin
+Importing FitsImagePlugin
+Importing FliImagePlugin
+Importing FpxImagePlugin
+Image: failed to import FpxImagePlugin: No module named 'olefile'
+Importing FtexImagePlugin
+Importing GbrImagePlugin
+Importing GifImagePlugin
+Importing GribStubImagePlugin
+Importing Hdf5StubImagePlugin
+Importing IcnsImagePlugin
+Importing IcoImagePlugin
+Importing ImImagePlugin
+Importing ImtImagePlugin
+Importing IptcImagePlugin
+Importing JpegImagePlugin
+Importing Jpeg2KImagePlugin
+Importing McIdasImagePlugin
+Importing MicImagePlugin
+Image: failed to import MicImagePlugin: No module named 'olefile'
+Importing MpegImagePlugin
+Importing MpoImagePlugin
+Importing MspImagePlugin
+Importing PalmImagePlugin
+Importing PcdImagePlugin
+Importing PcxImagePlugin
+Importing PdfImagePlugin
+Importing PixarImagePlugin
+Importing PngImagePlugin
+Importing PpmImagePlugin
+Importing PsdImagePlugin
+Importing QoiImagePlugin
+Importing SgiImagePlugin
+Importing SpiderImagePlugin
+Importing SunImagePlugin
+Importing TgaImagePlugin
+Importing TiffImagePlugin
+Importing WebPImagePlugin
+Importing WmfImagePlugin
+Importing XbmImagePlugin
+Importing XpmImagePlugin
+Importing XVThumbImagePlugin
+Not Found: /product_images/profile.png
+C:\Users\Rearms\Desktop\Web\Ecommerce\django\backend\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Rearms\Desktop\Web\Ecommerce\django\backend\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Rearms\Desktop\Web\Ecommerce\django\backend\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Rearms\Desktop\Web\Ecommerce\django\backend\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Rearms\Desktop\Web\Ecommerce\django\WebApi\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Rearms\Desktop\Web\Ecommerce\django\WebApi\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Rearms\Desktop\Web\Ecommerce\django\WebApi\models.py changed, reloading.
+Watching for file changes with StatReloader
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 32768
+Importing BlpImagePlugin
+Importing BmpImagePlugin
+Importing BufrStubImagePlugin
+Importing CurImagePlugin
+Importing DcxImagePlugin
+Importing DdsImagePlugin
+Importing EpsImagePlugin
+Importing FitsImagePlugin
+Importing FliImagePlugin
+Importing FpxImagePlugin
+Image: failed to import FpxImagePlugin: No module named 'olefile'
+Importing FtexImagePlugin
+Importing GbrImagePlugin
+Importing GifImagePlugin
+Importing GribStubImagePlugin
+Importing Hdf5StubImagePlugin
+Importing IcnsImagePlugin
+Importing IcoImagePlugin
+Importing ImImagePlugin
+Importing ImtImagePlugin
+Importing IptcImagePlugin
+Importing JpegImagePlugin
+Importing Jpeg2KImagePlugin
+Importing McIdasImagePlugin
+Importing MicImagePlugin
+Image: failed to import MicImagePlugin: No module named 'olefile'
+Importing MpegImagePlugin
+Importing MpoImagePlugin
+Importing MspImagePlugin
+Importing PalmImagePlugin
+Importing PcdImagePlugin
+Importing PcxImagePlugin
+Importing PdfImagePlugin
+Importing PixarImagePlugin
+Importing PngImagePlugin
+Importing PpmImagePlugin
+Importing PsdImagePlugin
+Importing QoiImagePlugin
+Importing SgiImagePlugin
+Importing SpiderImagePlugin
+Importing SunImagePlugin
+Importing TgaImagePlugin
+Importing TiffImagePlugin
+Importing WebPImagePlugin
+Importing WmfImagePlugin
+Importing XbmImagePlugin
+Importing XpmImagePlugin
+Importing XVThumbImagePlugin
+C:\Users\Rearms\Desktop\Web\Ecommerce\django\WebApi\models.py changed, reloading.
+Watching for file changes with StatReloader
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 32768
+Importing BlpImagePlugin
+Importing BmpImagePlugin
+Importing BufrStubImagePlugin
+Importing CurImagePlugin
+Importing DcxImagePlugin
+Importing DdsImagePlugin
+Importing EpsImagePlugin
+Importing FitsImagePlugin
+Importing FliImagePlugin
+Importing FpxImagePlugin
+Image: failed to import FpxImagePlugin: No module named 'olefile'
+Importing FtexImagePlugin
+Importing GbrImagePlugin
+Importing GifImagePlugin
+Importing GribStubImagePlugin
+Importing Hdf5StubImagePlugin
+Importing IcnsImagePlugin
+Importing IcoImagePlugin
+Importing ImImagePlugin
+Importing ImtImagePlugin
+Importing IptcImagePlugin
+Importing JpegImagePlugin
+Importing Jpeg2KImagePlugin
+Importing McIdasImagePlugin
+Importing MicImagePlugin
+Image: failed to import MicImagePlugin: No module named 'olefile'
+Importing MpegImagePlugin
+Importing MpoImagePlugin
+Importing MspImagePlugin
+Importing PalmImagePlugin
+Importing PcdImagePlugin
+Importing PcxImagePlugin
+Importing PdfImagePlugin
+Importing PixarImagePlugin
+Importing PngImagePlugin
+Importing PpmImagePlugin
+Importing PsdImagePlugin
+Importing QoiImagePlugin
+Importing SgiImagePlugin
+Importing SpiderImagePlugin
+Importing SunImagePlugin
+Importing TgaImagePlugin
+Importing TiffImagePlugin
+Importing WebPImagePlugin
+Importing WmfImagePlugin
+Importing XbmImagePlugin
+Importing XpmImagePlugin
+Importing XVThumbImagePlugin
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 32768
+C:\Users\Rearms\Desktop\Web\Ecommerce\django\WebApi\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Rearms\Desktop\Web\Ecommerce\django\WebApi\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Rearms\Desktop\Web\Ecommerce\django\WebApi\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /api/delproducts/1/
+Traceback (most recent call last):
+  File "C:\Users\Rearms\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Rearms\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Rearms\AppData\Local\Programs\Python\Python39\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Rearms\AppData\Local\Programs\Python\Python39\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Rearms\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Rearms\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Rearms\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Rearms\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Rearms\Desktop\Web\Ecommerce\django\WebApi\views.py", line 75, in delete
+    product = self.get_object(pk)
+AttributeError: 'ProductList' object has no attribute 'get_object'
+C:\Users\Rearms\Desktop\Web\Ecommerce\django\WebApi\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Rearms\Desktop\Web\Ecommerce\django\backend\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Rearms\Desktop\Web\Ecommerce\django\WebApi\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Rearms\Desktop\Web\Ecommerce\django\WebApi\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Rearms\Desktop\Web\Ecommerce\django\WebApi\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Rearms\Desktop\Web\Ecommerce\django\WebApi\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Rearms\Desktop\Web\Ecommerce\django\WebApi\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Rearms\Desktop\Web\Ecommerce\django\WebApi\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Rearms\Desktop\Web\Ecommerce\django\WebApi\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /api/api/upload-image/
+Unsupported Media Type: /api/postproducts/
+C:\Users\Rearms\Desktop\Web\Ecommerce\django\WebApi\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Rearms\Desktop\Web\Ecommerce\django\WebApi\views.py changed, reloading.
+Watching for file changes with StatReloader
+Bad Request: /api/upload-image/
+Bad Request: /api/upload-image/
+C:\Users\Rearms\Desktop\Web\Ecommerce\django\WebApi\views.py changed, reloading.
+Watching for file changes with StatReloader
+Bad Request: /api/upload-image/
+Bad Request: /api/upload-image/
+C:\Users\Rearms\Desktop\Web\Ecommerce\django\WebApi\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Rearms\Desktop\Web\Ecommerce\django\WebApi\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /api/upload-image/
+Not Found: /api/api/postproducts/
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 32768
+Importing BlpImagePlugin
+Importing BmpImagePlugin
+Importing BufrStubImagePlugin
+Importing CurImagePlugin
+Importing DcxImagePlugin
+Importing DdsImagePlugin
+Importing EpsImagePlugin
+Importing FitsImagePlugin
+Importing FliImagePlugin
+Importing FpxImagePlugin
+Image: failed to import FpxImagePlugin: No module named 'olefile'
+Importing FtexImagePlugin
+Importing GbrImagePlugin
+Importing GifImagePlugin
+Importing GribStubImagePlugin
+Importing Hdf5StubImagePlugin
+Importing IcnsImagePlugin
+Importing IcoImagePlugin
+Importing ImImagePlugin
+Importing ImtImagePlugin
+Importing IptcImagePlugin
+Importing JpegImagePlugin
+Importing Jpeg2KImagePlugin
+Importing McIdasImagePlugin
+Importing MicImagePlugin
+Image: failed to import MicImagePlugin: No module named 'olefile'
+Importing MpegImagePlugin
+Importing MpoImagePlugin
+Importing MspImagePlugin
+Importing PalmImagePlugin
+Importing PcdImagePlugin
+Importing PcxImagePlugin
+Importing PdfImagePlugin
+Importing PixarImagePlugin
+Importing PngImagePlugin
+Importing PpmImagePlugin
+Importing PsdImagePlugin
+Importing QoiImagePlugin
+Importing SgiImagePlugin
+Importing SpiderImagePlugin
+Importing SunImagePlugin
+Importing TgaImagePlugin
+Importing TiffImagePlugin
+Importing WebPImagePlugin
+Importing WmfImagePlugin
+Importing XbmImagePlugin
+Importing XpmImagePlugin
+Importing XVThumbImagePlugin
+C:\Users\Rearms\Desktop\Web\Ecommerce\django\WebApi\serializers.py changed, reloading.
+Watching for file changes with StatReloader

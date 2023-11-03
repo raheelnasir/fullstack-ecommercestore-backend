@@ -24,11 +24,13 @@ class Message(models.Model):
     def __str__(self):
         return f"From {self.sender} to {self.receiver}"
 
+
+
 class Products(models.Model):
     name = models.CharField(max_length=100, default="Product")
-    image = models.CharField(max_length=999999,default="https://cdn.leonardo.ai/users/9c5c81ee-0af6-45d2-a406-940450d62697/generations/fa323540-75a5-4e72-b957-2ec6a1e5bdf1/DreamShaper_v7_watch_modern_wallpaper_product_full_screened_wr_0.jpg")
+    image = models.ImageField(upload_to='product_images/', default="path/to/default_image.jpg")
     description = models.CharField(max_length=500, default="Product description")
-    price = models.DecimalField(max_digits=10, decimal_places=0, default=0)
+    price = models.DecimalField(max_digits=10, decimal_places=2, default=0)
 
 class Likes(models.Model):
     user = models.ForeignKey(User, on_delete=models.CASCADE, related_name='likes_given')
